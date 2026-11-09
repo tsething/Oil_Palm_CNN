@@ -1,0 +1,15 @@
+{
+    "selected_model": "exp2_best.pt",
+    "checkpoint_epoch": 19,
+    "test_samples": 718,
+    "test_accuracy": 0.8203342618384402,
+    "macro_precision": 0.8446018521118279,
+    "macro_recall": 0.824133644149638,
+    "macro_f1": 0.8327769600900808,
+    "weighted_precision": 0.8230858887133892,
+    "weighted_recall": 0.8203342618384402,
+    "weighted_f1": 0.8203633950824458,
+    "wrong_predictions": 129,
+    "majority_class": "Fully Ripe",
+    "majority_baseline_accuracy": 0.31337047353760444
+}

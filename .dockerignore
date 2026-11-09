@@ -1,0 +1,28 @@
+
+# Dataset and generated outputs
+data/
+models/
+outputs/
+docker_artifacts/
+demo_images/
+
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Git and editor settings
+.git/
+.vscode/
+
+# Reports and presentations
+reports/
+slides/
+
+# Miscellaneous
+*.log
+.DS_Store

@@ -1,0 +1,130 @@
+Filename,Actual,Predicted
+Decayed200.jpg,Decayed,Overripe
+Decayed224.jpg,Decayed,Overripe
+Decayed31.jpg,Decayed,Overripe
+Decayed389.jpg,Decayed,Overripe
+Decayed397.jpg,Decayed,Overripe
+FullyRipe1015.jpg,Fully Ripe,Immature
+FullyRipe1016.jpg,Fully Ripe,Decayed
+FullyRipe1025.jpg,Fully Ripe,Immature
+FullyRipe1117.jpg,Fully Ripe,Partially Ripe
+FullyRipe1179.jpg,Fully Ripe,Partially Ripe
+FullyRipe12.jpg,Fully Ripe,Partially Ripe
+FullyRipe1261.jpg,Fully Ripe,Immature
+FullyRipe1312.jpg,Fully Ripe,Partially Ripe
+FullyRipe1330.jpg,Fully Ripe,Partially Ripe
+FullyRipe1363.jpg,Fully Ripe,Overripe
+FullyRipe1380.jpg,Fully Ripe,Partially Ripe
+FullyRipe1391.jpg,Fully Ripe,Partially Ripe
+FullyRipe1415.jpg,Fully Ripe,Partially Ripe
+FullyRipe1417.jpg,Fully Ripe,Overripe
+FullyRipe1485.jpg,Fully Ripe,Immature
+FullyRipe16.jpg,Fully Ripe,Partially Ripe
+FullyRipe19.jpg,Fully Ripe,Partially Ripe
+FullyRipe21.jpg,Fully Ripe,Partially Ripe
+FullyRipe246.jpg,Fully Ripe,Partially Ripe
+FullyRipe289.jpg,Fully Ripe,Partially Ripe
+FullyRipe297.jpg,Fully Ripe,Partially Ripe
+FullyRipe31.jpg,Fully Ripe,Partially Ripe
+FullyRipe349.jpg,Fully Ripe,Partially Ripe
+FullyRipe386.jpg,Fully Ripe,Partially Ripe
+FullyRipe426.jpg,Fully Ripe,Partially Ripe
+FullyRipe437.jpg,Fully Ripe,Partially Ripe
+FullyRipe446.jpg,Fully Ripe,Partially Ripe
+FullyRipe561.jpg,Fully Ripe,Partially Ripe
+FullyRipe652.jpg,Fully Ripe,Immature
+FullyRipe693.jpg,Fully Ripe,Partially Ripe
+FullyRipe725.jpg,Fully Ripe,Partially Ripe
+FullyRipe742.jpg,Fully Ripe,Partially Ripe
+FullyRipe782.jpg,Fully Ripe,Partially Ripe
+FullyRipe8.jpg,Fully Ripe,Partially Ripe
+FullyRipe915.jpg,Fully Ripe,Partially Ripe
+FullyRipe98.jpg,Fully Ripe,Partially Ripe
+FullyRipe992.jpg,Fully Ripe,Partially Ripe
+Immature122.jpg,Immature,Fully Ripe
+Immature291.jpg,Immature,Partially Ripe
+Immature3.jpg,Immature,Partially Ripe
+Immature44.jpg,Immature,Fully Ripe
+Immature511.jpg,Immature,Fully Ripe
+Immature516.jpg,Immature,Partially Ripe
+Immature520.jpg,Immature,Fully Ripe
+Immature521.jpg,Immature,Fully Ripe
+Immature524.jpg,Immature,Fully Ripe
+Immature593.jpg,Immature,Partially Ripe
+Immature595.jpg,Immature,Partially Ripe
+Immature600.jpg,Immature,Overripe
+Immature615.jpg,Immature,Overripe
+Immature630.jpg,Immature,Partially Ripe
+Immature642.jpg,Immature,Partially Ripe
+Immature680.jpg,Immature,Fully Ripe
+Immature7.jpg,Immature,Partially Ripe
+Immature732.jpg,Immature,Partially Ripe
+Immature750.jpg,Immature,Partially Ripe
+Immature756.jpg,Immature,Partially Ripe
+Immature88.jpg,Immature,Partially Ripe
+OverRipe109.jpg,Overripe,Decayed
+OverRipe111.jpg,Overripe,Decayed
+OverRipe112.jpg,Overripe,Decayed
+OverRipe171.jpg,Overripe,Partially Ripe
+OverRipe187.jpg,Overripe,Partially Ripe
+OverRipe205.jpg,Overripe,Decayed
+OverRipe22.jpg,Overripe,Partially Ripe
+OverRipe263.jpg,Overripe,Partially Ripe
+OverRipe291.jpg,Overripe,Partially Ripe
+OverRipe293.jpg,Overripe,Partially Ripe
+OverRipe304.jpg,Overripe,Partially Ripe
+OverRipe330.jpg,Overripe,Partially Ripe
+OverRipe37.jpg,Overripe,Partially Ripe
+OverRipe398.jpg,Overripe,Partially Ripe
+OverRipe422.jpg,Overripe,Fully Ripe
+OverRipe494.jpg,Overripe,Immature
+OverRipe499.jpg,Overripe,Fully Ripe
+OverRipe500.jpg,Overripe,Fully Ripe
+OverRipe501.jpg,Overripe,Fully Ripe
+OverRipe516.jpg,Overripe,Fully Ripe
+OverRipe519.jpg,Overripe,Fully Ripe
+OverRipe521.jpg,Overripe,Fully Ripe
+OverRipe550.jpg,Overripe,Decayed
+OverRipe600.jpg,Overripe,Fully Ripe
+OverRipe601.jpg,Overripe,Fully Ripe
+OverRipe607.jpg,Overripe,Fully Ripe
+OverRipe636.jpg,Overripe,Fully Ripe
+OverRipe644.jpg,Overripe,Fully Ripe
+PartiallyRipe1.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1105.jpg,Partially Ripe,Overripe
+PartiallyRipe1231.jpg,Partially Ripe,Immature
+PartiallyRipe1232.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1247.jpg,Partially Ripe,Immature
+PartiallyRipe1248.jpg,Partially Ripe,Immature
+PartiallyRipe1251.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1253.jpg,Partially Ripe,Immature
+PartiallyRipe1260.jpg,Partially Ripe,Immature
+PartiallyRipe1281.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1282.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1287.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1295.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1296.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1332.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1333.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1354.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1375.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1376.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe1388.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe337.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe402.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe408.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe446.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe462.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe478.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe594.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe676.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe805.jpg,Partially Ripe,Overripe
+PartiallyRipe816.jpg,Partially Ripe,Overripe
+PartiallyRipe840.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe880.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe882.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe94.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe958.jpg,Partially Ripe,Overripe
+PartiallyRipe977.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe993.jpg,Partially Ripe,Fully Ripe
+PartiallyRipe994.jpg,Partially Ripe,Fully Ripe

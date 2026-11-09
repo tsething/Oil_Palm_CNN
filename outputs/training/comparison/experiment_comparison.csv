@@ -1,0 +1,4 @@
+Experiment,Selected Epoch,Validation Loss,Validation Accuracy (%)
+Exp 2 - Higher Dropout,19,0.5336514398328621,82.67045454545455
+Baseline,19,0.5354554497382857,83.0965909090909
+Exp 1 - Lower LR,19,0.5840262731706555,78.4090909090909

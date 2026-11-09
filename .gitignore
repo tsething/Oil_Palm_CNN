@@ -1,0 +1,46 @@
+
+# Dataset - downloaded separately
+data/
+
+# Model checkpoints
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Keep the selected final model for submission
+!models/exp2_best.pt
+
+# Docker-generated training artifacts
+docker_artifacts/
+
+# Local demo images
+demo_images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example

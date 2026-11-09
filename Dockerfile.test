@@ -1,0 +1,29 @@
+
+# ==========================================
+# Oil Palm CNN - Testing Docker Image
+# ==========================================
+
+FROM pytorch/pytorch:2.14.0-cuda12.6-cudnn9-runtime
+
+WORKDIR /app
+
+ENV PYTHONUNBUFFERED=1
+ENV MPLBACKEND=Agg
+
+# Copy testing dependencies
+COPY requirements-test.txt .
+
+# Install testing dependencies
+RUN python -m pip install \
+    --no-cache-dir \
+    --break-system-packages \
+    -r requirements-test.txt
+
+# Copy CNN and evaluation source code
+COPY src/ ./src/
+
+# Create required directories
+RUN mkdir -p data models outputs/evaluation
+
+# Check testing environment by default
+CMD ["python", "-c", "import torch, sklearn; print('Testing environment ready'); print('PyTorch:', torch.__version__); print('scikit-learn:', sklearn.__version__)"]

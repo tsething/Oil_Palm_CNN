@@ -1,0 +1,13 @@
+{
+    "experiment": "exp2",
+    "learning_rate": 0.001,
+    "dropout_rate": 0.5,
+    "batch_size": 16,
+    "epochs": 20,
+    "seed": 42,
+    "best_epoch": 19,
+    "best_val_loss": 0.5336514398328621,
+    "best_val_accuracy": 0.8267045454545454,
+    "train_samples": 3305,
+    "validation_samples": 704
+}

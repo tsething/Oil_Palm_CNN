@@ -1,0 +1,28 @@
+
+# ==========================================
+# Oil Palm CNN - Training Docker Image
+# ==========================================
+
+FROM pytorch/pytorch:2.14.0-cuda12.6-cudnn9-runtime
+
+WORKDIR /app
+
+ENV PYTHONUNBUFFERED=1
+
+# Copy training requirements into container
+COPY requirements-train.txt .
+
+# Install training dependencies
+RUN python -m pip install \
+    --no-cache-dir \
+    --break-system-packages \
+    -r requirements-train.txt
+
+# Copy source code
+COPY src/ ./src/
+
+# Create directories for mounted files
+RUN mkdir -p data models outputs/training
+
+# Default command: test CNN architecture
+CMD ["python", "src/test_model.py"]

@@ -1,0 +1,46 @@
+{
+  "total_images": 4728,
+  "class_counts": {
+    "Immature": 758,
+    "Partially Ripe": 1405,
+    "Fully Ripe": 1489,
+    "Overripe": 665,
+    "Decayed": 411
+  },
+  "image_sizes": {
+    "(256, 256)": 4728
+  },
+  "image_modes": {
+    "RGB": 4728
+  },
+  "corrupted_images": [],
+  "duplicate_groups": [
+    [
+      "data\\Images\\4Decayed\\Decayed321.jpg",
+      "data\\Images\\4Decayed\\Decayed322.jpg"
+    ]
+  ],
+  "split_counts": {
+    "Training": 3306,
+    "Validation": 704,
+    "Testing": 718
+  },
+  "missing_files": [],
+  "unlisted_files": [],
+  "ambiguous_filenames": [],
+  "repeated_split_entries": {
+    "Training": 0,
+    "Validation": 0,
+    "Testing": 0
+  },
+  "filename_overlaps": {
+    "Training vs Validation": [],
+    "Training vs Testing": [],
+    "Validation vs Testing": []
+  },
+  "cross_split_content_duplicates": {
+    "Training vs Validation": 0,
+    "Training vs Testing": 0,
+    "Validation vs Testing": 0
+  }
+}

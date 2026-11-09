@@ -1,0 +1,6 @@
+# Oil Palm CNN - Training Dependencies
+torchvision==0.29.0
+numpy
+pandas
+Pillow
+matplotlib
