@@ -153,9 +153,23 @@ The testing workflow uses CPU inference without relying on the host's Conda envi
 
 ## 9. Cross-Machine Verification
 
-Cross-machine verification must be performed separately on a second computer using the testing Docker image, saved checkpoint, inference source code, and demonstration image.
+Cross-machine verification was successfully completed using a second computer (Desktop PC).
 
-Record the testing command and output on the second computer as evidence. Do not claim successful cross-machine verification until it has actually been completed.
+The testing Docker image was built on the desktop using the same Dockerfile, inference source code, saved checkpoint (`exp2_best.pt`), and demonstration image (`newoilpalm.jpg`).
+
+The testing container performed CPU inference without requiring a local PyTorch or Conda installation.
+
+**Results on Both Computers:**
+
+- Predicted Class: Partially Ripe
+- Softmax Confidence: 57.65%
+- Device: CPU
+
+The prediction and confidence matched on both the laptop and desktop computer.
+
+A screenshot of the desktop testing command and output was saved as `outputs/docker_evidence/05_cross_machine_verification.png`.
+
+This confirms that the Docker testing workflow was successfully reproduced on a second physical computer.
 
 ## 10. Reproducibility Notes
 

@@ -1,8 +1,11 @@
+
 # Oil Palm CNN - Testing Dependencies
+# PyTorch 2.14.0+cu126 is provided by the Docker base image.
+
 torchvision==0.29.0
-numpy
-pandas
-Pillow
-matplotlib
-seaborn
-scikit-learn
+numpy==2.5.2
+pandas==3.1.1
+Pillow==12.3.0
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
